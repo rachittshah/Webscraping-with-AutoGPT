@@ -126,14 +126,3 @@ The complete list of reference for this tutorial is included at the end of the n
 
 <br>
 
-## Feedback
-
-If you have any feedback or ideas to improve this project, feel free to contact me via:
-
-<a href="https://twitter.com/korfanakis">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<a href="https://uk.linkedin.com/in/korfanakis">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
